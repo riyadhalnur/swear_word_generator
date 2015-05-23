@@ -1,4 +1,6 @@
-# swear_word_generator
+[![Build Status](https://travis-ci.org/riyadhalnur/swear_word_generator.svg)](https://travis-ci.org/riyadhalnur/swear_word_generator)
+
+# Swear Word Generator
 Generate random swear words, just cause  
 
 ## Install  
