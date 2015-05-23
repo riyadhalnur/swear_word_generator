@@ -1,0 +1,43 @@
+{
+  "name": "swear-word-generator",
+  "version": "1.0.0",
+  "description": "Generate random swear words, just cause",
+  "main": "index.js",
+  "bin": {
+    "swear": "index.js"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/riyadhalnur/swear_word_generator.git"
+  },
+  "keywords": [
+    "swear",
+    "words",
+    "generator",
+    "random",
+    "cursing",
+    "curse",
+    "node-cli"
+  ],
+  "author": "Riyadh Al Nur <riyadhalnur@verticalaxisbd.com> (http://blog.verticalaxisbd.com)",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/riyadhalnur/swear_word_generator/issues"
+  },
+  "homepage": "https://github.com/riyadhalnur/swear_word_generator",
+  "dependencies": {
+    "lodash": "~3.9.0",
+    "colors": "^1.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.0.x",
+    "should": "^4.3.x"
+  },
+  "preferGlobal": true
+}
